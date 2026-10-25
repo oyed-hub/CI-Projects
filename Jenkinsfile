@@ -12,7 +12,7 @@ pipeline {
         NEXUS_MAVEN_URL  = '172.31.25.229:8081'
         NEXUS_DOCKER_URL = '172.31.25.229:8082'
 
-        MAVEN_REPO       = 'maven-repo'
+        MAVEN_REPO       = 'maven-reop'
         DOCKER_REPO      = 'docker-repo'
 
         GROUP_ID         = 'com.countrychicken'
